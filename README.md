@@ -1,6 +1,7 @@
 ## Aplicação do vídeo do Youtube: Brincando com NextJS, GraphQL e Prisma juntos
 
 ## Do Professor Bonieky Lacerda
+[Link para o vídeo do Youtube](https://www.youtube.com/watch?v=zoTaFvlqZ4o)
 
 - npx create-next-app --typescript
 - npm i -D prisma
